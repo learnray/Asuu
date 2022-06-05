@@ -1,0 +1,19 @@
+body { background-color: Purple;
+       color: Red;}
+h1 {background-color: black;
+font-family:serif;
+font-size:2.5em;
+color: white;}
+.ray {
+border-radius:50%;
+border:10px dotted #000000;}
+.contact {
+background-color: White;}
+.language{ background-color: white;
+color: black;}
+.input{ font-size:1em;}
+.phone{font-size:1.5em;}
+.location{font-size:1.1em;}
+#table{color: white;
+       font-size:2em;}
+.paragraph{ font-size:1.5em}
